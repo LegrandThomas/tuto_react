@@ -16,7 +16,7 @@
 ## Le Projet:
 
 * Mise en route apllication mobile avec React Native
-* Objectif : Suivre et reproduire le tuto suivant 👇
+* Objectif : Suivre et reproduire le tuto suivant 👉
                          https://docs.expo.dev/tutorial/introduction/
 
  ### Contexte du projet:
@@ -80,9 +80,15 @@ BONUS : Mise en place bandeau RGPD, vidéo, Splashscreen et + encore j'adore les
    ### ScreenShot:
 
 <details>
-<summary>Team</summary>
+<summary>Application mobile</summary>
 
-![avatar-homme(5)](https://github.com/LegrandThomas/TodoList/assets/103045194/8d51767b-a971-4209-9e00-430a62fe73d0)            Thomas
+
+   
+  </details>
+<details>
+<summary>code</summary>
+
+
    
   </details>
 
