@@ -122,6 +122,11 @@ Voir code ;)
 
 
 ### Commentaires divers:
+Très bonne découverte!!!
 
 ### Installation/Mise en route:
+
+1) clôner le repo
+2) npm i
+3) npm expo start
 
