@@ -81,13 +81,40 @@ BONUS : Mise en place bandeau RGPD, vidéo, Splashscreen et + encore j'adore les
 
 <details>
 <summary>Application mobile</summary>
+ *screen expo start
+
+ ![screen_expo_start](https://github.com/LegrandThomas/tuto_react/assets/103045194/db54003a-7410-4f81-9a01-ec173d597052)
+
+ *screen home
+
+![screen1](https://github.com/LegrandThomas/tuto_react/assets/103045194/569d6951-d1e8-4de7-9fd8-9679fb69dd65)
 
 
-   
+ *screen select_image
+
+![screen_pick_image](https://github.com/LegrandThomas/tuto_react/assets/103045194/c09c152f-d257-48f7-b9de-93e596beb550)
+
+
+ *screen open modal
+
+![modal_sticker](https://github.com/LegrandThomas/tuto_react/assets/103045194/956a594a-759f-47b2-990b-2538f1ae6c4e)
+
+
+ *screen pick_sticker
+
+![screen_sticker_move](https://github.com/LegrandThomas/tuto_react/assets/103045194/0d9a9264-2ab9-4d73-9082-b72c0028bda4)
+
+
+ *screen result
+
+![screen_result](https://github.com/LegrandThomas/tuto_react/assets/103045194/6be610aa-843e-4983-bfa3-df20dcfda791)
+
+
   </details>
 <details>
 <summary>code</summary>
 
+Voir code ;)
 
    
   </details>
