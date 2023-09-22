@@ -8,13 +8,9 @@
 
 1. [Le Projet](#le-projet)
 2. [Contexte du projet](#contexte-du-projet)
-3. [ScreenShot](#equipe-pour-ce-brief)
-
-10. [Commentaires divers](#Commentaires-divers)
-11. [Installation/Mise en route](#installationmise-en-route)
-
-
-
+3. [ScreenShot](#ScreenShot)
+4. [Commentaires divers](#Commentaires-divers)
+5. [Installation/Mise en route](#installationmise-en-route)
 
 
 ## Le Projet:
